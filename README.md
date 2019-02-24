@@ -1,7 +1,7 @@
 # AstroAge
 An application that calculates your age on different planets.
 
-<a href="https://play.google.com/store/apps/details?id=com.nordef.astroagecalculator" target="_blank">
+<a target="_blank" href="https://play.google.com/store/apps/details?id=com.nordef.astroagecalculator" target="_blank">
 <img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" alt="Get it on Google Play" height="80"/></a>
 
 ![alt text](https://lh3.googleusercontent.com/0iQ6VuMM5sLyzEOprbNtI3raJM_ZtfuSLlMLVWt6pL4HOToNqDeMTU9Hf8nJBBUXBYM)
