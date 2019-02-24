@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name" translatable="false">AstroAge</string>
+
+    //MainActivity.kt
+    <string name="choose_time_first">Please choose your time of birth first</string>
+    <string name="choose_date_first">Please choose your birth date first</string>
+
+    //activity_main.xml
+    <string name="birth_hour">Your hour of birth</string>
+    <string name="birth_date">Your Birth date</string>
+    <string name="your_age_is">Your age is :</string>
+    <string name="join_adventure">Join the adventure</string>
+    <string name="delete_all">Reset all</string>
+    <string name="days">Days</string>
+    <string name="months">Months</string>
+    <string name="years">Years</string>
+    <string name="hours">Hours</string>
+    <string name="minutes">Minutes</string>
+
+    <string name="ok">Ok</string>
+    <string name="or">OR</string>
+
+    //AgeInWorld.kt
+    <string name="Mercury">Mercury</string>
+    <string name="Venus">Venus</string>
+    <string name="Earth">Earth</string>
+    <string name="Mars">Mars</string>
+    <string name="Jupiter">Jupiter</string>
+    <string name="Saturn">Saturn</string>
+    <string name="Uranus">Uranus</string>
+    <string name="Neptune">Neptune</string>
+    <string name="Pluto">Pluto</string>
+
+    //ads
+    <string name="admob_app_id" translatable="false">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="admob_interstitial_ad" translatable="false">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="admob_interstitial_ad_2" translatable="false">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="admob_publisher_id" translatable="false">pub-0123456789012345</string>
+    <string name="admob_GDPR_privacy_policy_link" translatable="false">https://www.google.com/</string>
+</resources>

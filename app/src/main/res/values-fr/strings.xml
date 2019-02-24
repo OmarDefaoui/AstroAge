@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //MainActivity.kt
+    <string name="choose_time_first">Veuillez choisir l\'heure de naissance en premier</string>
+    <string name="choose_date_first">Veuillez choisir la date de naissance en premier</string>
+
+    //activity_main.xml
+    <string name="birth_hour">Heure de naissance</string>
+    <string name="birth_date">Date de naissance</string>
+    <string name="your_age_is">Ton âge est :</string>
+    <string name="join_adventure">Rejoint l\'aventure</string>
+    <string name="delete_all">Réinitialiser</string>
+    <string name="days">Jours</string>
+    <string name="months">Mois</string>
+    <string name="years">Années</string>
+    <string name="hours">Heures</string>
+    <string name="minutes">Minutes</string>
+
+    <string name="ok">Ok</string>
+    <string name="or">OU</string>
+
+    //AgeInWorld.kt
+    <string name="Mercury">Mercure</string>
+    <string name="Venus">Vénus</string>
+    <string name="Earth">Terre</string>
+    <string name="Mars">Mars</string>
+    <string name="Jupiter">Jupiter</string>
+    <string name="Saturn">Saturne</string>
+    <string name="Uranus">Uranus</string>
+    <string name="Neptune">Neptune</string>
+    <string name="Pluto">Pluton</string>
+</resources>
